@@ -1,4 +1,4 @@
-# Branching Strategy
+# Lelav Repository Contribution Guidelines and Branching Strategy
 
 ## Rules
 
