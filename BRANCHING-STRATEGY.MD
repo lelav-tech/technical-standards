@@ -5,7 +5,7 @@
 Pushing your contributions to the Lelav’s repositories `MUST` follow the strategy and guidelines below:
 
 - When working on tasks, always create a new branch from the development branch.
-- The branch name should clearly represent the task. For more information, click [here](#branching-naming).
+- The branch name should clearly represent the task. For more information, click [here](#branch-naming).
 - Each subtask within your main task should have its own commit. This means that even if you have a single main task, it might consist of multiple subtasks, each requiring its own commit.
 - Commit messages should be well-described and relevant to the task.
 - Once you complete your main task, create a pull request and add `dilovanmatini` as a reviewer so we can review your code. After the review, We will merge your branch into the development branch.
