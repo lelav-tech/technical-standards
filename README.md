@@ -11,3 +11,7 @@ Click [here](https://spatie.be/guidelines/laravel-php) to view the full guidelin
 ## IxDF Laravel conventions
 
 Click [here](https://handbook.interaction-design.org/library/backend/conventions--laravel.html) to view all the guidelines
+
+## GitHub Branching Strategy
+
+Click [here](BRANCHING-STRATEGY.MD) to view the guidelines
