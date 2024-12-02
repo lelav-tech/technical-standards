@@ -1,11 +1,27 @@
 # Branching Strategy
 
-## Branches
+## Rules
 
-The repository has the following branches:
+Pushing your contributions to the Lelav’s repositories `MUST` follow the strategy and guidelines below:
 
-- `main` - The main branch for production. This branch should only be updated via pull requests from the `development` branch.
-- `development` - The main branch for development. All feature branches should be branched off of this branch.
+- When working on tasks, always create a new branch from the development branch.
+- The branch name should clearly represent the task. For more information, click [here]().
+- Each subtask within your main task should have its own commit. This means that even if you have a single main task, it might consist of multiple subtasks, each requiring its own commit.
+- Commit messages should be well-described and relevant to the task.
+- Once you complete your main task, create a pull request and add `dilovanmatini` as a reviewer so we can review your code. After the review, We will merge your branch into the development branch.
+- `NEVER` merge any code directly into the development and production branches.
+
+## Main Branches
+
+The repository has the following main branches:
+
+- `development` - The main branch for development. All other branches should be cloned from this branch.
+- `production` - The main branch for production. This branch should only be updated via pull requests and only from the `development` branch. (This operation should be done by Lelav's DevOps).
+
+## Branch Naming
+
+To create a new branch from `development`, you need to follow the naming convention below:
+
 - `feature/*` - Feature branches for new features.
 - `bug/*` - Bug branches for bug fixes.
 - `hotfix/*` - Hotfix branches for hotfixes for production.
