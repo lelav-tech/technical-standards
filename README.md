@@ -14,4 +14,4 @@ Click [here](https://handbook.interaction-design.org/library/backend/conventions
 
 ## GitHub Branching Strategy
 
-Click [here](BRANCHING-STRATEGY.MD) to view the guidelines
+Click [here](RULES-AND-BRANCHING-STRATEGY.MD) to view the guidelines
